@@ -11,6 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>GreenAir Air Pollution Tracker</h1>
+        <h2>Hello there, test group repo</h2>
         <button onClick={this.handleClick}>Change the background color</button>
       </div>
     );
